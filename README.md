@@ -1,0 +1,2 @@
+# Telecom-Churn-Predictor---Different-Models-Approach
+"Telecom Churn Predictor" project, which employs a diverse range of predictive models to tackle the challenge of customer churn in the telecommunications industry.High customer churn rates pose a significant threat to telecom companies. To address , I explored various machine learning models to predict which customers are at a high risk of churning
